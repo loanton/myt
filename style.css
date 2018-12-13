@@ -118,6 +118,9 @@ a {
   font-size: 30px;
   font-family: Georgia;
   font-weight: bold;
+}
+
+.wp.three span {
   padding-left: 15px;
 }
 
